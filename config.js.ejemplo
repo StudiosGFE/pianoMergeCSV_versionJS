@@ -1,0 +1,8 @@
+const config = {
+    aid: 
+    token :
+    fileA: "./fileA.csv",
+    fileB: "./fileB.csv",
+};
+
+module.exports = config;

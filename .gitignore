@@ -1,0 +1,38 @@
+# Carpeta de dependencias
+node_modules/
+
+# Archivos de construcción
+dist/
+build/
+
+# Archivos de configuración
+.env
+.env.local
+.env.development
+.env.production
+config.js
+
+# Archivos de registro
+logs/
+*.log
+
+# Archivos de respaldo
+*.bak
+*.backup
+
+# Archivos de caché
+.cache/
+.cached/
+
+# Archivos de pruebas
+coverage/
+test-results/
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.iml
+
+# Otros archivos y carpetas generados
+.DS_Store
+Thumbs.db

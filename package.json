@@ -1,0 +1,24 @@
+{
+  "name": "mixPiano",
+  "version": "1.0.0",
+  "description": "",
+  "main": "m.js",
+  "scripts": {
+    "start": "nodemon mixPiano.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "csvtojson": "^2.0.10",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.0.1",
+    "promisify": "^0.0.3",
+    "util": "^0.12.5"
+  }
+}
