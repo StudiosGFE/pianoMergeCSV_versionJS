@@ -7,7 +7,7 @@
 
 - Date: `September 2023`
 - javaScript  
-- script name: piano_MixJS.js 
+- script name: mixPiano.js 
 - input: fileA.csv, fileB.csv, Piano API data 
 - output: mergedFile_JS.csv 
 
